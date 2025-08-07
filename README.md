@@ -1,1 +1,1 @@
-# FitnessBuddyChatbotUsing-WatsonxAssitant
+# FitnessBuddyChatbotUsing-WatsonxAssitant & Agentic Ai
